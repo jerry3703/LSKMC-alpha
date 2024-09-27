@@ -1,0 +1,131 @@
+[21:12:48] [Client thread/INFO]: Setting user: Player59
+[21:12:55] [Client thread/WARN]: Skipping bad option: lastServer:
+[21:12:55] [Client thread/INFO]: LWJGL Version: 2.9.4
+[21:12:58] [Client thread/INFO]: Reloading ResourceManager: Default
+[21:13:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:13:01] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[21:13:01] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:13:03] [Thread-3/INFO]: OpenAL initialized.
+[21:13:03] [Sound Library Loader/INFO]: Sound engine started
+[21:13:16] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[21:13:23] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[21:13:27] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:16:45] [Client thread/INFO]: Realms library version == 1.10.22
+[21:16:45] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:16:45] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+[21:16:50] [Client thread/INFO]: Connecting to yincangipwuping.cloverpixel.com., 25565
+[21:16:51] [Client thread/WARN]: Received passengers for unknown entity
+[21:16:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_351]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at bhk.k(SourceFile:178) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:1611) ~[1.12.2.jar:?]
+	at kj.a(SourceFile:54) ~[1.12.2.jar:?]
+	at kj.a(SourceFile:10) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_351]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[21:16:51] [Client thread/INFO]: [CHAT] §d§l『邀人』§7hjx1314§f: 我们四个太强啦§f §e[§6超级战墙#3§e]
+[21:16:51] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §e
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§1§2§3§5§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§c§d§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §2
+[21:16:51] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §1
+[21:16:51] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §3
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§1§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§2§3§4§5§6§7§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §d
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[21:16:51] [Client thread/INFO]: [CHAT] §0§0§3§4§5§6§7§8§f§e
+[21:16:51] [Client thread/INFO]: [CHAT] §0§1§0§1§2§f§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§1§3§4§f§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§1§5§f§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§1§6§f§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§1§7§f§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§1§8§9§a§b§f§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§2§0§0§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§2§1§0§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §0§2§1§1§e§f
+[21:16:51] [Client thread/INFO]: [CHAT] §f §f §2 §0 §4 §8
+[21:16:51] [Client thread/INFO]: [CHAT] §f §f §4 §0 §9 §6
+[21:16:51] [Client thread/INFO]: [CHAT] §f §f §1 §0 §2 §4
+[21:16:53] [Client thread/INFO]: [CHAT] ===================================================
+[21:16:53] [Client thread/INFO]: [CHAT] |           Clover Pixel
+[21:16:53] [Client thread/INFO]: [CHAT] |
+[21:16:53] [Client thread/INFO]: [CHAT] | 你的账户 已经注册  请登陆
+[21:16:53] [Client thread/INFO]: [CHAT] |
+[21:16:53] [Client thread/INFO]: [CHAT] | 使用 "/login <密码>" 来进行登陆
+[21:16:53] [Client thread/INFO]: [CHAT] |
+[21:16:53] [Client thread/INFO]: [CHAT] ===================================================
+[21:16:59] [Client thread/INFO]: [CHAT] ===================================================
+[21:16:59] [Client thread/INFO]: [CHAT] |           Clover Pixel
+[21:16:59] [Client thread/INFO]: [CHAT] |
+[21:16:59] [Client thread/INFO]: [CHAT] | 你的账户 已经注册  请登陆
+[21:16:59] [Client thread/INFO]: [CHAT] |
+[21:16:59] [Client thread/INFO]: [CHAT] | 使用 "/login <密码>" 来进行登陆
+[21:16:59] [Client thread/INFO]: [CHAT] |
+[21:16:59] [Client thread/INFO]: [CHAT] ===================================================
+[21:17:04] [Client thread/INFO]: Connecting to yincangipwuping.cloverpixel.com., 25565
+[21:17:05] [Client thread/WARN]: Received passengers for unknown entity
+[21:17:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_351]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at bhk.k(SourceFile:178) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:1611) ~[1.12.2.jar:?]
+	at kj.a(SourceFile:54) ~[1.12.2.jar:?]
+	at kj.a(SourceFile:10) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_351]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[21:17:05] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §e
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§1§2§3§5§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§c§d§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §2
+[21:17:05] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §1
+[21:17:05] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §3
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§1§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§2§3§4§5§6§7§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §d
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[21:17:05] [Client thread/INFO]: [CHAT] §0§0§3§4§5§6§7§8§f§e
+[21:17:05] [Client thread/INFO]: [CHAT] §0§1§0§1§2§f§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§1§3§4§f§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§1§5§f§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§1§6§f§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§1§7§f§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§1§8§9§a§b§f§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§2§0§0§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§2§1§0§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §0§2§1§1§e§f
+[21:17:05] [Client thread/INFO]: [CHAT] §f §f §2 §0 §4 §8
+[21:17:05] [Client thread/INFO]: [CHAT] §f §f §4 §0 §9 §6
+[21:17:05] [Client thread/INFO]: [CHAT] §f §f §1 §0 §2 §4
+[21:17:07] [Client thread/INFO]: [CHAT] ===================================================
+[21:17:07] [Client thread/INFO]: [CHAT] |           Clover Pixel
+[21:17:07] [Client thread/INFO]: [CHAT] |
+[21:17:07] [Client thread/INFO]: [CHAT] | 你的账户 已经注册  请登陆
+[21:17:07] [Client thread/INFO]: [CHAT] |
+[21:17:07] [Client thread/INFO]: [CHAT] | 使用 "/login <密码>" 来进行登陆
+[21:17:07] [Client thread/INFO]: [CHAT] |
+[21:17:07] [Client thread/INFO]: [CHAT] ===================================================
+[21:17:21] [Client thread/INFO]: Stopping!
+[21:17:21] [Client thread/INFO]: SoundSystem shutting down...
+[21:17:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

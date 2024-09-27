@@ -1,0 +1,67 @@
+[20:34:13] [Client thread/WARN]: Skipping bad option: lastServer:
+[20:34:13] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:34:17] [Client thread/INFO]: Reloading ResourceManager: Default
+[20:35:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:35:13] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[20:35:13] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:35:15] [Thread-3/INFO]: OpenAL initialized.
+[20:35:15] [Sound Library Loader/INFO]: Sound engine started
+[20:35:38] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[20:35:45] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[20:35:47] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:36:13] [Client thread/INFO]: Connecting to ccc.blocksmc.com., 25565
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] 
+[20:36:18] [Client thread/INFO]: [CHAT] /login <password>
+[20:36:18] [Client thread/INFO]: [CHAT] If you lost the password type /resetpassword
+[20:36:37] [Client thread/INFO]: [CHAT] /login <password>
+[20:36:45] [Client thread/INFO]: [CHAT] Wrong Password.
